@@ -1,3 +1,5 @@
+// running on http://127.0.0.1:8080/standalone.html //
+
 // simulate getting products from DataBase
 const products = [
   { name: "Apples_:", country: "Italy", cost: 3, instock: 10 },
